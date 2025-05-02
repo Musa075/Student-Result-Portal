@@ -13,7 +13,6 @@ function calculateResult() {
   let subject3 = document.getElementById("subject3").value;
 
 
-
   try {
 
     if (!myname || !subject1 || !subject2 || !subject3) {
